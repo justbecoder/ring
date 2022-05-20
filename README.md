@@ -1,4 +1,4 @@
-# Remax Wechat With TypeScript
+# 我的储物戒小程序
 
 Ring 储物戒
 

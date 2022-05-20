@@ -3,12 +3,17 @@
  * @author: huxiaoshuai
  * @Date: 2022-01-19 12:03:20
  * @LastEditors: huxiaoshuai
- * @LastEditTime: 2022-01-19 16:47:20
+ * @LastEditTime: 2022-01-20 17:18:50
  */
 import { AppConfig } from "remax/wechat";
 
 const config: AppConfig = {
-  pages: ["pages/index/index", "pages/market/market", "pages/me/me"],
+  pages: [
+    "pages/index/index",
+    "pages/market/market",
+    "pages/me/me",
+    "pages/box/box",
+  ],
   window: {
     navigationBarTitleText: "我的储物戒",
     navigationBarBackgroundColor: "#282c34",
